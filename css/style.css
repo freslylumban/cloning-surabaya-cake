@@ -1,0 +1,292 @@
+/* BODY */
+body {
+    background-color: #fffcc0;
+    font: normal normal Roboto, Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+}
+
+
+/* BARIS HEADER -----------------------*/
+#mainHeader .subHeader1 {
+    padding-left: 0;
+    padding-right: 0;
+}
+#mainHeader .subHeader1 img {
+    width: 100%;
+    border-color: #3b9639;
+}
+#mainHeader .subHeader2 {
+    background-color: #3b9639;
+    padding: 40px 40px 10px;
+}
+#mainHeader .subHeader2 h2 {
+    font: normal normal 42px Roboto, Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+    color: #fff337
+}
+#mainHeader .subHeader2 p {
+    opacity: 1;
+    font-size: 25px;
+    color: #fff;
+}
+
+
+/* SURABAYA PATATA ------------------------*/
+#mainHeaderPatata .subHeaderPatata {
+    background-color: #fff003;
+    padding-top: 0;
+    padding-bottom: 40px;
+}
+
+#mainHeaderPatata .subHeaderPatata .subPatata {
+    padding-top: 50px;
+}
+
+#mainHeaderPatata .subHeaderPatata .logo-patata h2 {
+    font-size: 48px;
+    letter-spacing: -.0625em;
+    font-weight: bold;
+}
+#mainHeaderPatata .subHeaderPatata .logo-patata p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    opacity: .7;
+    font-size: 16px;
+}
+
+#mainHeaderPatata .subHeaderPatata .ria-ricis img {
+    width: 100%;
+}
+
+#mainHeaderPatata .subHeaderPatata .menuPatata {
+    padding-top: 0;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+#mainHeaderPatata .subHeaderPatata .menuPatata h3 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+/* SURABAYA PATATA ------------------------*/
+
+
+
+/* SURABAYA SNOWCAKE ----------------------*/
+#mainHeaderSnowcake .subHeaderSnowcake {
+    background-color: #000;
+    padding-top: 0;
+    padding-bottom: 40px;
+}
+
+#mainHeaderSnowcake .subHeaderSnowcake .subSnowcake {
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+#mainHeaderSnowcake .subHeaderSnowcake .logo-snowcake h2 {
+    font-size: 48px;
+    letter-spacing: -.0625em;
+    font-weight: bold;
+    color: #fff;
+}
+#mainHeaderSnowcake .subHeaderSnowcake .logo-snowcake p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    opacity: .7;
+    font-size: 16px;
+    color: #fff;
+}
+
+#mainHeaderSnowcake .subHeaderSnowcake .zaskia-sungkar img {
+    width: 100%;
+}
+
+#mainHeaderSnowcake .subHeaderSnowcake .menuSnowcake {
+    padding-top: 0;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+#mainHeaderSnowcake .subHeaderSnowcake .menuSnowcake h3 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #fff;
+}
+/* SURABAYA SNOWCAKE ----------------------*/
+
+
+/* SURABAYA BOLU JOEANG -------------------*/
+#mainHeaderBoluJoeang .subHeaderBoluJoeang {
+    background-color: #fff;
+    padding-top: 0;
+    padding-bottom: 40px;
+}
+
+#mainHeaderBoluJoeang .subHeaderBoluJoeang .subBoluJoeang {
+    padding-top: 50px;
+}
+
+#mainHeaderBoluJoeang .subHeaderBoluJoeang .logo-BoluJoeang h2 {
+    font-size: 48px;
+    letter-spacing: -.0625em;
+    font-weight: bold;
+}
+#mainHeaderBoluJoeang .subHeaderBoluJoeang .logo-BoluJoeang p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    opacity: .7;
+    font-size: 16px;
+}
+
+#mainHeaderBoluJoeang .subHeaderBoluJoeang .ariel-tatum img {
+    width: 100%;
+}
+
+#mainHeaderBoluJoeang .subHeaderBoluJoeang .menuBoluJoeang {
+    padding-top: 0;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+#mainHeaderBoluJoeang .subHeaderBoluJoeang .menuBoluJoeang h3 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+/* SURABAYA BOLU JOEANG -------------------*/
+
+
+/* LAPIS KUKUS PAHLAWAN SURABAYA ---------*/
+#mainHeaderLapisKukus .subHeaderLapisKukus {
+    background-color: #fff;
+    padding-top: 0;
+    padding-bottom: 40px;
+}
+
+#mainHeaderLapisKukus .subHeaderLapisKukus .subLapisKukus {
+    padding-top: 40px;
+}
+
+#mainHeaderLapisKukus .subHeaderLapisKukus .logo-LapisKukus h2 {
+    font-size: 48px;
+    letter-spacing: -.0625em;
+    font-weight: bold;
+}
+
+#mainHeaderLapisKukus .subHeaderLapisKukus .logo-LapisKukus p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    opacity: .7;
+    font-size: 16px;
+}
+
+#mainHeaderLapisKukus .subHeaderLapisKukus .menuLapisKukus h3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#mainHeaderLapisKukus .subHeaderLapisKukus .menuLapisKukus p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+/* LAPIS KUKUS PAHLAWAN SURABAYA ---------*/
+
+
+/* OLEH-OLEH LAINNYA ---------------------*/
+#mainHeaderLainnya .subHeaderLainnya {
+    background-color: #fff;
+    padding-top: 0;
+    padding-bottom: 40px;
+}
+
+#mainHeaderLainnya .subHeaderLainnya .subLainnya {
+    padding-top: 40px;
+}
+
+#mainHeaderLainnya .subHeaderLainnya .logo-Lainnya h2 {
+    font-size: 48px;
+    letter-spacing: -.0625em;
+    font-weight: bold;
+}
+
+#mainHeaderLainnya .subHeaderLainnya .logo-Lainnya p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    opacity: .7;
+    font-size: 26px;
+    letter-spacing: -1px;
+}
+
+#mainHeaderLainnya .subHeaderLainnya .menuLainnya h3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#mainHeaderLainnya .subHeaderLainnya .menuLainnya p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+/* OLEH-OLEH LAINNYA ---------------------*/
+
+
+/* CONTACT ----------------------------*/
+#mainContactHeader .subContactHeader {
+    background-color: #fff;
+    padding-top: 0;
+    padding-bottom: 40px;
+}
+
+#mainContactHeader .subContactHeader h2 {
+    font-size: 48px;
+    font-weight: bold;
+    letter-spacing: -.0625em;
+}
+
+#mainContactHeader .subContactHeader p {
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    opacity: .7;
+    letter-spacing: -.0625em;
+}
+
+#mainContactHeader .subContactHeader .contactOrder a {
+    margin: 5px;
+}
+
+#mainContactHeader .subContactHeader .contactOrder .btn {
+    color: #fff;
+}
+
+#mainContactHeader .subContactHeader .contactOrder .btn:hover {
+    text-decoration: underline;
+}
+
+#mainContactHeader .subContactHeader .contactOrder .btn-call {
+    background-color: #2dc100;
+}
+#mainContactHeader .subContactHeader .contactOrder .btn-sms {
+    background-color: #4673e6;
+}
+#mainContactHeader .subContactHeader .contactOrder .btn-wa {
+    background-color: #65bc54;
+}
+#mainContactHeader .subContactHeader .contactOrder .btn-bbm {
+    background-color: #282828;
+}
+#mainContactHeader .subContactHeader .contactOrder .btn-telegram {
+    background-color: #64a9dc;
+}
+/* CONTACT ----------------------------*/
+
+
+/* FOOTER */
+footer {
+    font-size: 12px;
+    color: #999;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+/* FOOTER */
